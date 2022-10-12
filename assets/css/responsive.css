@@ -1,0 +1,45 @@
+/* PC */
+@media (min-width:1024px) {
+   
+}
+/* Table & Mobile */
+@media (max-width:1023.9px) {
+    .btn { padding:15px 16px;}
+    .contact-form .form-control { padding: 15px; font-size:16px}
+    .socials-list a {
+        font-size:48px;
+        margin: 0 8px;
+    }
+    .contact-info {
+        line-height: 2;
+    }
+    input#ticket-quantity, input#ticket-email {font-size:16px}
+}
+/* Tablet */
+@media (min-width:740px) and (max-width:1023px) {
+   
+}
+/* Mobile */
+@media (max-width:739px) {
+    #header { overflow:hidden;}
+    #nav, #nav>li:not(:first-child),  #header .mobile-menu-btn {display:block;}
+    #header .search-button {display:none;}
+    #nav li .subnav {
+        position:initial;
+        background-color: #333;
+    }
+    #nav .subnav a {
+        color:#fff;
+        padding: 5px 41px;
+    }
+    #nav li a {
+        padding: 1px 24px;    
+    }
+    .s-col-full {
+        width: 100%;
+    }
+    .s-mt-8 { margin-top: 8px;}
+    .s-btn {width: 100%;}
+    .contact-form {margin-top: 32px;}
+
+}

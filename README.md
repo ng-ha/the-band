@@ -1,10 +1,8 @@
-## The band :musical_keyboard:
+# A cloned responsive website with **_HTML/CSS_** :musical_keyboard:
 
 ![the-band](./github-images/the-band.png)
 ![the-band2](./github-images/the-band2.png)
 ![the-band3](./github-images/the-band3.png)
-
-A cloned responsive website with **_HTML/CSS_**
 
 ## Link Demo :page_facing_up:
 

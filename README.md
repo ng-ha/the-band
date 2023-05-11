@@ -1,4 +1,4 @@
-# A cloned responsive website with **_HTML/CSS_** :musical_keyboard:
+# A cloned responsive website with `HTML/CSS` :musical_keyboard:
 
 ![the-band](./github-images/the-band.png)
 ![the-band2](./github-images/the-band2.png)
@@ -10,8 +10,8 @@
 
 ### Technologies ✨
 
-- Javascript
-- HTML/CSS
+- `Javascript`
+- `HTML/CSS`
 
 ## License :right_anger_bubble:
 
